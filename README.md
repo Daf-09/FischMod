@@ -2,6 +2,8 @@ Warning, this is just a mechanic transplant, i do not claim their works!
 
 [Original Game = https://www.roblox.com/games/16732694052/Fisch]
 
+Forge 1.21.1, later will add neo, and fabric 
+Link Download jar file =
 
 How it works? =
 You throw your bobber with a fishing rod,and then play the mini game.
@@ -20,3 +22,5 @@ fishingfrenzy,
 
 
 Note = if the author really wants to take down the mod,dm me in here,thanks
+
+I love the game so much that i have to try the fishing mechanic into Minecraft, both are my favorites, how ever, i only make a mod that is only taking the fishing technique, no other else i take, at least i will add a rods (not gonna copy their rods) 
