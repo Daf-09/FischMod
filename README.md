@@ -2,8 +2,9 @@ Warning, this is just a mechanic transplant, i do not claim their works!
 
 [Original Game = https://www.roblox.com/games/16732694052/Fisch]
 
-Forge 1.21.1, later will add neo, and fabric 
-Link Download jar file =
+Forge 1.21.1, later will add neo, and fabric. 
+
+Link Download jar file = https://www.curseforge.com/minecraft/mc-mods/fisch-fishing 
 
 How it works? =
 You throw your bobber with a fishing rod,and then play the mini game.
