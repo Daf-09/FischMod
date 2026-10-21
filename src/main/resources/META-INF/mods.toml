@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="MIT"
+
+[[mods]]
+modId="fischfishing"
+version="1.Snapshot"
+displayName="Fisch Fishing"
+description='''A Fisch-style reel for fishing in Minecraft.'''
+
+[[dependencies.fischfishing]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.fischfishing]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"

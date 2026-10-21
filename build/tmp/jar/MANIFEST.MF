@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: fischfishing
+Specification-Vendor: GodzE
+Specification-Version: 1
+Implementation-Title: fischfishing
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: GodzE
+Implementation-Timestamp: 2026-10-21T11:52:42+0700
+
